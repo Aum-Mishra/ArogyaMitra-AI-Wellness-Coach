@@ -1,0 +1,36 @@
+# Backend
+backend/__pycache__/
+backend/.env
+backend/.env.local
+backend/venv/
+backend/env/
+backend/*.pyc
+backend/.pytest_cache/
+backend/.coverage
+
+# Frontend
+UI Health/node_modules/
+UI Health/dist/
+UI Health/.env
+UI Health/.env.local
+UI Health/.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies
+.pnp
+.pnp.js
